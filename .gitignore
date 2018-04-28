@@ -1,0 +1,12 @@
+# Text backup files
+*.bak
+
+#Database
+*.sqlite3
+
+#Python
+*.pyc
+__pycache__
+
+#Envioriment
+venv
